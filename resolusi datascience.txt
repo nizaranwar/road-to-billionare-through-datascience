@@ -1,13 +1,15 @@
 Jalan saya untuk menjadi biliuner adalah melalui pemrograman khususnya adalah data science.
 Untuk menjadi data scientist yang handal, saya harus menjadi :
-1. Mahir bahasa pemrograman Python
-2. Mahir bahasa pemrograman R
-3. Mahir SQL
-4. Paham tentang computational thinking
-5. Paham data structures dan algorithms
-6. Menuliskan apa yang telah saya pelajari dalam sebuah blog dan sejenisnya.
-7. Perbanyak portfolio di bidang data science
-8. Mahir aljabar linear dan kalkulus.
-9. Mahir statistik untuk data science
-10. Paham machine learning.
-11. Perbanyak proyek data science melalui kaggle.com
+-> Mahir bahasa pemrograman Python
+-> Mahir bahasa pemrograman R
+-> Mahir SQL
+-> Paham tentang computational thinking
+-> Paham data structures dan algorithms
+-> Menuliskan apa yang telah saya pelajari dalam sebuah blog dan sejenisnya.
+-> Perbanyak portfolio di bidang data science
+-> Mahir aljabar linear dan kalkulus.
+-> Mahir statistik untuk data science
+-> Paham machine learning.
+-> Perbanyak proyek data science melalui kaggle.com
+-> Mendapat job di gojek, shopee, tokopedia, traveloka
+-> Mendapat job data science di google atau amazon, facebook 
