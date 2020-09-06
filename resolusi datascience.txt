@@ -1,6 +1,5 @@
 Jalan saya untuk menjadi biliuner adalah melalui pemrograman khususnya adalah data science.
 Untuk menjadi data scientist yang handal, saya harus menjadi :
--> Mahir bahasa pemrograman Python
 -> Mahir bahasa pemrograman R
 -> Mahir SQL
 -> Paham tentang computational thinking
